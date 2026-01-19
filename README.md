@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img src="/screenshots/banner.jpg" width="400" alt="Banner" />
+<img src="/screenshots/banner.jpg" width="800" alt="Banner" />
 
 **My Hero Academia Web** es un sitio web dedicado al universo de Boku no Hero Academia.    Explorá información sobre héroes, villanos, quirks y arcos de la historia con un diseño moderno y responsive inspirado en la serie. 
 
