@@ -1,125 +1,148 @@
-# My Hero Academia — Web Interactiva
-**Autor:** Nicolás Báez
+# ⚡ My Hero Academia Web
 
-![Banner](./screenshots/banner.jpg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📌 Descripción
-¡Bienvenido a mi proyecto web inspirado en el universo de **My Hero Academia**!  
-En esta app podés explorar héroes, villanos y sus dones, con tarjetas interactivas, animaciones y diseño responsivo.
+<img src="/screenshots/banner.jpg" width="400" alt="Banner" />
 
----
+**My Hero Academia Web** es un sitio web dedicado al universo de Boku no Hero Academia.    Explorá información sobre héroes, villanos, quirks y arcos de la historia con un diseño moderno y responsive inspirado en la serie. 
 
-## 🎥 Vista previa en video
+🌐 **[Ver Demo en Vivo](https://plusultra-web.vercel.app)**
 
-📺 Podés ver una demostración del proyecto en este video de YouTube:  
-🔗 [Vista Previa](https://www.youtube.com/watch?v=XaT3Bp1Gpzs)
 
----
-
-## 🚀 Tecnologías utilizadas
-
-- **HTML** y **SCSS** (estructura modular dividida por `components`, `layouts`, y `utils`)
-- **JavaScript Vanilla** para manipulación dinámica del DOM en ranking.html
-- **Bootstrap 5** para diseño responsivo
-- **Animate.css** para animaciones suaves al cargar contenido
-- **SweetAlert2** para futuros mensajes y alertas interactivas
-- **Favicon** incluido en la pestaña del navegador
-- Estructura basada en BEM y buenas prácticas de organización de carpetas
-- Diseño centrado en la **experiencia del usuario y accesibilidad**
-- SEO con etiquetas `<meta>` y Open Graph en cada sección
+🎥 **[Ver Video Preview en YouTube](https://www.youtube.com/watch?v=XaT3Bp1Gpzs)**
 
 ---
 
-## 🧪 Estado actual
+## ✨ Características
 
-- ✅ Página de **Inicio** con carrusel y cards de personajes.
-- ✅ Página de **Personajes** con información detallada de héroes y villanos.
-- ✅ Página de **Dones** con GIFs ilustrativos para cada quirk.
-- ✅ Página de **Openings** con carrusel y links a YouTube.
-- ✅ Página de **Ranking** con comparativa de poder dinámica.
-- ✅ Página de **Sucesos** con **línea del tiempo dual** (serie y películas).
-- ✅ Página de **Soundtracks** con top musical (imágenes + links a YouTube).
-- ✅ Página de **Nosotros** con Aclaración legal y origen del proyecto.
-- ✅ Página de **Contacto** con formulario simulado de sugerencias, errores o fanarts.
-- 🔧 Mejoras continuas en navegación, accesibilidad y experiencia responsive.
+### 🦸 Héroes
+- Catálogo completo de héroes profesionales
+- Información detallada de cada personaje
+- Quirks y habilidades especiales
+- Rankings de popularidad
 
----
+### 😈 Villanos
+- Base de datos de antagonistas
+- Organizaciones criminales
+- Historias y motivaciones
+- Poderes y debilidades
 
-## 🧪 Funcionalidades
+### ⚡ Quirks
+- Enciclopedia de quirks
+- Clasificación por tipo (Emisión, Transformación, Mutación)
+- Explicación de habilidades
+- Usuarios destacados
 
-### 🏠 **Inicio**
-- Carrusel de imágenes con Bootstrap.
-- Cards interactivas de personajes principales.
+### 📖 Arcos Argumentales
+- Timeline de la serie
+- Resumen de arcos importantes
+- Eventos clave por temporada
+- Spoiler-free mode
 
-### 🦸‍♂️ **Personajes**
-- Cards informativas con imágenes, texto y diseño responsive.
-- Héroes y villanos destacados.
-
-### ⚡ **Dones**
-- Galería de *quirks* con GIFs y descripciones.
-- Animaciones al ingresar.
-
-### 🎵 **Openings**
-- Carrusel visual con links a YouTube.
-- Experiencia audiovisual para fans.
-
-### 📈 Ranking de Poder ✅
-- **Sección dinámica generada con JavaScript**
-- Cards con diseño tipo "ficha" para cada personaje
-- Incluye:
-  - Imagen GIF animada
-  - Nombre, rol (héroe o villano)
-  - Descripción del personaje
-  - Barra de poder (visual + valor numérico)
-
-### 🗓️ **Sucesos**
-- Línea del tiempo dual (serie y películas).
-- Cronología visual fácil de explorar.
-
-### 🎶 Soundtracks (NUEVA)
-- **Top musical** con los temas más icónicos de la serie
-- Diseño en forma de timeline dual
-- Cards con imágenes uniformes y enlaces a YouTube
-- Mejora visual para fans de la música de MHA
-
-### 👥 **Nosotros**
-- Sección informativa que explica el objetivo del sitio.
-- Se aclara que es un proyecto hecho por un fan sin fines de lucro.
-- Se detalla que **no es oficial ni está afiliado** a los creadores de *My Hero Academia*.
-- Incluye datos del desarrollador.
-
-### ✉️ **Contacto**
-- Página con formulario funcional simulado (sin backend).
-- Campos: nombre, email, motivo y mensaje.
-- Validación de campos y feedback visual con SweetAlert2.
-- Se accede mediante un **botón flotante** visible en toda la app.
+### 🎨 Diseño Temático
+- Interfaz inspirada en el anime
+- Animaciones dinámicas
+- Paleta de colores heroica
+- 100% responsive para todos los dispositivos
 
 ---
 
-### 🛠️ Mejoras en desarrollo
+## 🚀 Tecnologías
 
-- ⚙️ **SCSS modular y mantenible**
-  - Separación clara por secciones y elementos reutilizables
-  - Uso de mixins, variables y media querie
+| Tecnología | Uso |
+|------------|-----|
+| **HTML5** | Estructura semántica |
+| **SCSS** | Estilos y preprocesador CSS |
+| **JavaScript ES6+** | Interactividad y lógica |
+| **Bootstrap 5** | Framework UI responsive |
 
----
-
-## 🚀 **Sitio desplegado en Vercel**  
-👉 Accedé a la versión en línea desde:  
-🌐 [https://plusultra-web.vercel.app](https://plusultra-web.vercel.app)
-
----
-
-## 📌 Autor
-
-**Nicolás Báez**  
-💻 Proyecto para práctica y portfolio personal  
-🔗 [Mi GitHub](https://github.com/114032-Baez-Nicolas)
+### Stack Técnico
+- **Frontend:** HTML5 + SCSS + Vanilla JavaScript
+- **Preprocesador:** SCSS con variables y mixins
+- **Framework UI:** Bootstrap 5
+- **Animaciones:** CSS3 animations + transitions
+- **Deploy:** Vercel
+- **Responsive:** Mobile-first design
 
 ---
 
-## 💥 ¡Plus Ultra!
+## 🛠️ Instalación Local
 
-Este proyecto fue creado con muchísima pasión por el mundo de My Hero Academia.  
-Cada detalle está pensado para que disfrutes explorarlo tanto como yo disfruté crearlo.  
-¡Y todavía queda mucho por sumar!
+### Requisitos Previos
+- Navegador moderno (Chrome, Firefox, Edge, Safari)
+- Servidor local (opcional:  Live Server, Python, etc.)
+
+### Pasos
+
+1. **Clonar el repositorio**
+```bash
+git clone https://github.com/baez-nicolas/my-hero-academia-web.git
+cd my-hero-academia-web
+```
+
+2. **Compilar SCSS (opcional)**
+```bash
+# Si querés modificar estilos: 
+npm install -g sass
+sass --watch scss: css
+```
+
+3. **Abrir con un servidor local**
+
+**Opción A - Live Server (VSCode):**
+```
+Click derecho en index.html → Open with Live Server
+```
+
+**Opción B - Simplemente abrir el archivo:**
+```
+Doble click en index.html
+```
+
+---
+
+## 🎯 Funcionalidades Destacadas
+
+### Sistema de Navegación
+- Menú responsive con hamburger menu
+- Navegación suave entre secciones
+- Breadcrumbs para ubicación
+- Links de referencia rápida
+
+### Diseño Inspirado en el Anime
+- Paleta de colores heroica (rojo, azul, dorado)
+- Tipografía dinámica y legible
+- Cards con efectos hover
+- Animaciones de entrada
+
+### Contenido Organizado
+- Secciones claramente diferenciadas
+- Filtros por categoría
+- Búsqueda interna
+- Información estructurada
+
+---
+
+## 👨‍💻 Autor
+
+**Nicolás Baez**
+
+- GitHub: [@baez-nicolas](https://github.com/baez-nicolas)
+- LinkedIn: [linkedin.com/in/baez-nicolas](https://www.linkedin.com/in/baez-nicolas/)
+- Proyecto: [my-hero-academia-web](https://github.com/baez-nicolas/my-hero-academia-web)
+- Demo: [https://plusultra-web.vercel.app](https://plusultra-web.vercel.app)
+
+---
+
+<div align="center">
+
+**[⬆ Volver arriba](#-my-hero-academia-web)**
+
+Hecho con ❤️ y 💪 para los fans de My Hero Academia
+
+*"Plus Ultra!"*
+
+</div>
