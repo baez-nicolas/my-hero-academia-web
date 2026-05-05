@@ -11,8 +11,17 @@
 
 🌐 **[Ver Demo en Vivo](https://plusultra-web.vercel.app)**
 
+---
 
-🎥 **[Ver Video Preview en YouTube](https://www.youtube.com/watch?v=XaT3Bp1Gpzs)**
+## 🎥 Video Demostrativo
+
+<div>
+
+<a href="https://www.youtube.com/watch?v=XaT3Bp1Gpzs">
+  <img src="https://img.youtube.com/vi/eULG09u-aXQ/maxresdefault.jpg" alt="Video Preview" width="450">
+</a>
+
+[![Ver video en YouTube](https://img.shields.io/badge/YouTube-Ver_Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=XaT3Bp1Gpzs)
 
 ---
 
