@@ -148,9 +148,7 @@ Doble click en index.html
 
 <div align="center">
 
-**[⬆ Volver arriba](#-my-hero-academia-web)**
-
-Hecho con ❤️ y 💪 para los fans de My Hero Academia
+**[Volver arriba](#-my-hero-academia-web)**
 
 *"Plus Ultra!"*
 
