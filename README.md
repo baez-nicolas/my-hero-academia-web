@@ -133,6 +133,8 @@ Doble click en index.html
 - Búsqueda interna
 - Información estructurada
 
+<img src="/img/mhaPersonajes.jpg" width="600" alt="Banner" />
+
 ---
 
 ## 👨‍💻 Autor
